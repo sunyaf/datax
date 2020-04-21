@@ -5,6 +5,7 @@
 
 ## 使用方式
 **1、很简单，只需要将我的文件夹替换掉你的datax里面的hdfswriter文件夹即可**
+
 **2、设置"fileType":"parquet",其他的参照datax 阿里官方即可**
 ## 例子
 ```bash
