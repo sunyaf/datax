@@ -108,5 +108,5 @@ text
 读写失败总数                    :                   0
 ```
 
-**扫码支付20元，本人主动私聊**
+**扫码支付20元，然后可以私聊本人**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200714142945974.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM0NzQ4NTY5,size_16,color_FFFFFF,t_70)
